@@ -21,4 +21,5 @@
 | [@julian_brooks](https://keybase.io/julian_brooks) | `0x505559E39993cAC587560368BDC04D93c62b35b1`|
 | [@ottog](https://keybase.io/ottog) | `0x9819c1f48397eca46e80a7aa549685ca1683b804`|
 | [@giveth](https://keybase.io/giveth) | `0x839395e20bbB182fa440d08F850E6c7A8f6F0780`|
+| [@nebali](https://keybase.io/nebali) | `0x32688364a56440f0d5F6365076374c195b70e999`|
 | | |
